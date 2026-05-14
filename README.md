@@ -1,4 +1,4 @@
-# 🎯 Real-Time Object Detection and Tracking System
+# 🎯 Object Detection and Tracking System
 
 ## 🚀 Overview
 This project is a professional-grade video analysis tool that leverages Deep Learning to identify objects and track their movement across video frames. Unlike simple detection, this system "remembers" objects by assigning them unique persistent IDs, making it ideal for traffic monitoring, security, and crowd analysis.
